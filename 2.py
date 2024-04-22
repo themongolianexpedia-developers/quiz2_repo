@@ -1,1 +1,1 @@
-jn
+print("Feature2 deer uuchlult oruulsan ymaa")
